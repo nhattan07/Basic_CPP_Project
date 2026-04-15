@@ -180,6 +180,5 @@ int main() {
             case 7: wm.timVK(); break;
             case 8: wm.sortByDamage(); break;
         }
-
     } while (choice != 0);
 };
